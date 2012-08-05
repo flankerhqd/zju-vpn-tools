@@ -1,0 +1,10 @@
+E:\MyCode\VpnChanger\VpnChanger\bin\Debug\VpnChanger.exe
+E:\MyCode\VpnChanger\VpnChanger\bin\Debug\VpnChanger.pdb
+E:\MyCode\VpnChanger\VpnChanger\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MyCode\VpnChanger\VpnChanger\obj\x86\Debug\VpnChanger.Form1.resources
+E:\MyCode\VpnChanger\VpnChanger\obj\x86\Debug\VpnChanger.Properties.Resources.resources
+E:\MyCode\VpnChanger\VpnChanger\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\MyCode\VpnChanger\VpnChanger\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\MyCode\VpnChanger\VpnChanger\obj\x86\Debug\VpnChanger.exe
+E:\MyCode\VpnChanger\VpnChanger\obj\x86\Debug\VpnChanger.pdb
+E:\MyCode\VpnChanger\VpnChanger\bin\Debug\VpnChanger.exe.config
